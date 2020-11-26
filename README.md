@@ -1,2 +1,2 @@
-# imgsrcer
+# img-srcer
 Lightweight image generator.
